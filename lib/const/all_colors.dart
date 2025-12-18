@@ -4,6 +4,6 @@ class AllColors {
   static final primaryColor=Color(0xff0066ff);
   static final secondaryColor=Color(0xff9933ff);
   static final whiteColor=Color(0xffffffff);
-  static final blackColor=Color(0xff151313);
+  static final darkColor=Color(0xff151313);
 
 }
