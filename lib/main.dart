@@ -1,7 +1,6 @@
 import 'package:ecomarce1/screens/auth/signup_screens.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:get/get_core/get_core.dart';
 
 void main() {
   runApp(const MyApp());
