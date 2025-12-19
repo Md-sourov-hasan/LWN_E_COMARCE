@@ -6,6 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
 
+// ignore: must_be_immutable
 class SignupScreens extends StatelessWidget {
   SignupScreens({super.key});
   AuthController authController=Get.put(AuthController());
