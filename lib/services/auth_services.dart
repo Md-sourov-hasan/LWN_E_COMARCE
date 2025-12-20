@@ -1,7 +1,9 @@
 import 'dart:convert';
 
-import 'package:ecomarce1/const/base_url.dart';
-import 'package:http/http.dart' as http;
+import
+ 'package:ecomarce1/const/base_url.dart';
+import
+ 'package:http/http.dart' as http;
 
 class AuthServices {
 
